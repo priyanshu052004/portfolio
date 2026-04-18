@@ -19,7 +19,7 @@ const baseProjects = [
     github: 'https://github.com/',
   },
   {
-    title: 'Movie_Discover_System',
+    title: 'Movie Discover System',
     description:
       'Movie Discover System is a web application that allows users to search movies and view real-time details such as title, rating, overview, and posters using the TMDB API.',
     stack: ['Java', 'JSP', 'Servlets', 'PostgreSQL', 'Tomcat'],
