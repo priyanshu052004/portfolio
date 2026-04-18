@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g2" x1="1" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.9"/>
+      <stop offset="0.55" stop-color="#6366f1" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="r2" cx="78%" cy="30%" r="80%">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#020617"/>
+  <rect width="1200" height="800" fill="url(#r2)"/>
+  <rect x="90" y="120" width="1020" height="560" rx="28" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <rect x="120" y="160" width="700" height="70" rx="18" fill="url(#g2)" opacity="0.6"/>
+  <rect x="120" y="260" width="930" height="260" rx="22" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <g opacity="0.9">
+    <rect x="150" y="290" width="280" height="60" rx="16" fill="rgba(255,255,255,0.10)"/>
+    <rect x="150" y="370" width="390" height="26" rx="13" fill="rgba(255,255,255,0.10)"/>
+    <rect x="150" y="412" width="460" height="26" rx="13" fill="rgba(255,255,255,0.10)"/>
+    <rect x="150" y="454" width="360" height="26" rx="13" fill="rgba(255,255,255,0.10)"/>
+  </g>
+  <text x="130" y="206" fill="rgba(255,255,255,0.92)" font-family="ui-sans-serif, system-ui" font-size="34" font-weight="700">
+    Project Preview
+  </text>
+  <text x="130" y="610" fill="rgba(148,163,184,0.95)" font-family="ui-sans-serif, system-ui" font-size="22">
+    Replace with your e-commerce / dashboard screenshot.
+  </text>
+</svg>
+

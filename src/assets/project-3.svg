@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g3" x1="0" x2="1" y1="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.8"/>
+      <stop offset="0.5" stop-color="#2563eb" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="r3" cx="35%" cy="70%" r="85%">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#020617" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#020617"/>
+  <rect width="1200" height="800" fill="url(#r3)"/>
+  <rect x="95" y="125" width="1010" height="550" rx="28" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="280" cy="305" r="92" fill="url(#g3)" opacity="0.45"/>
+  <rect x="410" y="220" width="650" height="56" rx="18" fill="rgba(255,255,255,0.10)"/>
+  <rect x="410" y="300" width="520" height="24" rx="12" fill="rgba(255,255,255,0.10)"/>
+  <rect x="410" y="340" width="620" height="24" rx="12" fill="rgba(255,255,255,0.10)"/>
+  <rect x="410" y="380" width="560" height="24" rx="12" fill="rgba(255,255,255,0.10)"/>
+  <rect x="160" y="470" width="900" height="160" rx="22" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.08)"/>
+  <text x="130" y="205" fill="rgba(255,255,255,0.92)" font-family="ui-sans-serif, system-ui" font-size="34" font-weight="700">
+    Project Preview
+  </text>
+  <text x="130" y="610" fill="rgba(148,163,184,0.95)" font-family="ui-sans-serif, system-ui" font-size="22">
+    Replace with your productivity / SaaS screenshot.
+  </text>
+</svg>
+
