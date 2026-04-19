@@ -14,7 +14,7 @@ const skills = [
   },
   {
     title: 'Backend',
-    items: ['Java', 'Spring Boo', ' JSP', 'Servlets', 'JDBC',  'MVC'],
+    items: ['Java', 'Spring Boot', ' JSP', 'Servlets', 'JDBC',  'MVC'],
     accent: 'from-purple-600/25 to-indigo-500/10',
     icon: backendIcon,
   },
