@@ -1,8 +1,9 @@
 import ScrollTriggered from '../motions/ScrollTriggered.jsx'
-import backendIcon from '../assets/Backendicon.png'
-import databaseIcon from '../assets/DataBase.jpg'
-import frontendIcon from '../assets/frontendicon.png'
-import toolsIcon from '../assets/Toolsicon.jpg'
+import frontendIcon from '../assets/frontend.png'
+import backendIcon from '../assets/backend.png'
+import databaseIcon from '../assets/database.png'
+import toolsIcon from '../assets/tools.png'
+
 
 
 const skills = [
