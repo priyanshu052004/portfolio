@@ -1,6 +1,6 @@
 import ScrollTriggered from '../motions/ScrollTriggered.jsx'
 import frontendIcon from '../assets/frontend.png'
-import backendIcon from '../assets/backend.png'
+import backendIcon from '../assets/backend-logo-final.png'
 import databaseIcon from '../assets/database.png'
 import toolsIcon from '../assets/tools.png'
 
