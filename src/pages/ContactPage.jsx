@@ -129,7 +129,7 @@ export default function ContactPage() {
                       value={formData.email}
                       onChange={handleChange}
                       className="glass rounded-xl px-4 py-3 text-sm text-white outline-none ring-1 ring-white/10 focus:ring-2 focus:ring-blue-400/50"
-                      placeholder="your_Mail@gmail.com"
+                      placeholder="your_mail_@gmail.com"
                     />
                   </label>
                 </div>
