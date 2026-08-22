@@ -7,7 +7,7 @@ const education = [
     level: 'Graduation',
     institute: 'G H Raisoni College of Engineering, Nagpur',
     duration: '2022 - 2026',
-    details: 'Degree: B.Tech  | Field: Data Science | CGPA: 8.61/10 (till 7th sem)',
+    details: 'Degree: B.Tech  | Field: Data Science | CGPA: 8.64/10',
   },
   {
     level: '12th Standard',
